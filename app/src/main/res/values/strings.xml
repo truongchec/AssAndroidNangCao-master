@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ass</string>
+    <string name="facebook_app_id">530616657405660</string>
+    <string name="fb_login_protocol_scheme">fb</string>
+    <string name="inter_summer">
+        Không kén đối tượng, mụn trứng cá luôn sẵn sàng và bất chấp để hiển thị trên mặt mỗi người,
+        bất kể ở độ tuổi và giới tính nào.</string>
+    <string name="inter_summer1">Hành Trình Trị Mụn Trứng Cá</string>
+    <string name="inter_sunmer3">Trị mụn gian nan và tốn kém là vậy nhưng để tìm ra được liệu pháp trị mụn tối ưu nhất vẫn là câu hỏi lớn với nhiều người
+        Hãy cùng lắng nghe chia sẻ từ các khách hàng thân yêu của Trungca về hành trình này nhé!</string>
+</resources>
